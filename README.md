@@ -4,7 +4,8 @@
 
 <pre align="center">
 <h1 align="center">
-<em>Hello sailor, what are you doing for these seas?</em>
+<em>Hello sailor!
+What are you doing for these seas?</em>
 <h3>My name is Davi, I am a lover and student of programming and hacking. 
 I like to go deeper in the area of technology.. 
 But OK! Why don't you come and talk to me?
