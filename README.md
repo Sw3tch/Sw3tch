@@ -7,7 +7,7 @@
 <em>Hello sailor, you around here?</em>
 <h3>My name is Davi, I am a lover and student of programming and hacking. 
 I like to go deeper in the area of technology.. 
-But there! Come and talk to me.
+But OK! Why don't you come and talk to me?
 
 💻 ┇ 𝐃𝐞𝐬𝐭𝐢𝐧𝐲 <h3>
 </h1>
