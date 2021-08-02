@@ -16,15 +16,13 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Brazil/Sao_Paulo
           plugin_topics: yes
+          plugin_isocalendar: yes
           plugin_activity: yes
-          #plugin_isocalendar: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_limit: 5
           plugin_activity_visibility: all
           plugin_followup: yes
           plugin_languages: yes
-          #plugin_isocalendar: yes
-          #plugin_isocalendar_duration: full-year 
           plugin_languages_colors: github
           plugin_languages_limit: 8
