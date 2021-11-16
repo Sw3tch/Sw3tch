@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="643" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="679" class="">
   
 
   <defs><style>@font-face {
@@ -82,6 +82,22 @@
   }
   .banner, footer {
     color: #AE9DA7;
+  }
+
+/* Isocalendar */
+  .isocalendar svg {
+    margin-top: -20px !important;
+  }
+
+/* Images */
+  .isocalendar svg, .screenshot {
+    filter: grayscale(1) brightness(.9) opacity(.7);
+  }
+
+/* Autosize */
+  .autosize {
+    width: auto;
+    height: auto;
   }
 
 /* Prompt */
@@ -249,11 +265,11 @@
         </div>
       </div>
 
-<pre><div class="banner">Metrics generator 3.15.0
+<pre><div class="banner">Metrics generator 3.16.0
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 16 Nov 2021, 01:49:50
+Last generated: 16 Nov 2021, 02:22:14
 </div>
 <div class="stdin"><span class="ps1-path">sw3tch@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Sw3tch</b> registered=6m, uid=8307, gid=0
   contributed to 1 repository <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
@@ -278,7 +294,9 @@ Last generated: 16 Nov 2021, 01:49:50
 -r--  <b>    1</b>  watcher
 dr-x  <b>    0</b>  packages
 </div>
-<footer>Connection reset by 165.111.228.227</footer></pre>
+
+
+<footer>Connection reset by 199.51.206.128</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
